@@ -15,3 +15,6 @@ ligação com o Bluetooth e, após os dados serem recebidos, deve ser feita uma 
 que estes são transmitidos.
 No fim, terá de realizar um relatório que será enviado para avaliação, bem como os códigos
 utilizados para implementar o trabalho proposto.
+
+
+Nota final: 19,2
